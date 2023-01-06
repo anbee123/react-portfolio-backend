@@ -1,14 +1,14 @@
 [
     {
       "name": "project1",
-      "live": "https://app.herokuapp.com/whatever",
-      "git": "http://www.github.com/username/reponame",
+      "live": "https://app.herokuapp.com/testingdemo",
+      "git": "http://www.github.com/Anbee123/demo",
       "image": "http://www.imgur.com/pictureofproject.png"
     },
     {
       "name": "project2",
-      "live": "https://app.netlify.app/whatever",
-      "git": "http://www.github.com/username/reponame",
+      "live": "https://app.netlify.app/testingdemo2",
+      "git": "http://www.github.com/Anbee123/demo2",
       "image": "http://www.imgur.com/pictureofproject.png"
     }
   ]
